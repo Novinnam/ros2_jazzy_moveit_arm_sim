@@ -1,0 +1,30 @@
+[0.028s] Invoking command in '/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/src/build/my_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/novinnam/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/src/my_cpp_pkg -DCMAKE_INSTALL_PREFIX=/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/src/install/my_cpp_pkg
+[0.251s] -- The C compiler identification is GNU 13.3.0
+[0.421s] -- The CXX compiler identification is GNU 13.3.0
+[0.451s] -- Detecting C compiler ABI info
+[0.591s] -- Detecting C compiler ABI info - done
+[0.602s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.602s] -- Detecting C compile features
+[0.603s] -- Detecting C compile features - done
+[0.617s] -- Detecting CXX compiler ABI info
+[0.757s] -- Detecting CXX compiler ABI info - done
+[0.769s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.770s] -- Detecting CXX compile features
+[0.771s] -- Detecting CXX compile features - done
+[0.793s] -- Found rclcpp: 28.1.11 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.938s] -- Found Python3: /home/novinnam/miniconda3/bin/python3 (found version "3.13.5") found components: Interpreter 
+[1.383s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.432s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.489s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.550s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.769s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.787s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[2.019s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[2.052s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[2.087s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.281s] -- Configuring done (2.2s)
+[2.285s] -- Generating done (0.0s)
+[2.288s] -- Build files have been written to: /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/src/build/my_cpp_pkg
+[2.297s] Invoked command in '/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/src/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/novinnam/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/src/my_cpp_pkg -DCMAKE_INSTALL_PREFIX=/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/src/install/my_cpp_pkg
+[2.299s] Invoking command in '/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/src/build/my_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/novinnam/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/src/build/my_cpp_pkg -- -j8 -l8
+[2.365s] Invoked command in '/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/src/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/novinnam/ws_moveit/install/moveit_configs_utils:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/src/build/my_cpp_pkg -- -j8 -l8

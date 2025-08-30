@@ -1,0 +1,32 @@
+[1.218s] Invoking command in '/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/src/my_py-pkg': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py-pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py-pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_py-pkg build --build-base /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py-pkg/build install --record /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py-pkg/install.log --single-version-externally-managed install_data
+[1.552s] running egg_info
+[1.552s] creating ../../build/my_py-pkg/my_py_pkg.egg-info
+[1.578s] writing ../../build/my_py-pkg/my_py_pkg.egg-info/PKG-INFO
+[1.578s] writing dependency_links to ../../build/my_py-pkg/my_py_pkg.egg-info/dependency_links.txt
+[1.578s] writing requirements to ../../build/my_py-pkg/my_py_pkg.egg-info/requires.txt
+[1.578s] writing top-level names to ../../build/my_py-pkg/my_py_pkg.egg-info/top_level.txt
+[1.579s] writing manifest file '../../build/my_py-pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.632s] reading manifest file '../../build/my_py-pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.632s] writing manifest file '../../build/my_py-pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.633s] running build
+[1.633s] running build_py
+[1.633s] creating /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py-pkg/build
+[1.633s] creating /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py-pkg/build/lib
+[1.633s] creating /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py-pkg/build/lib/my_py-pkg
+[1.633s] copying my_py-pkg/__init__.py -> /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py-pkg/build/lib/my_py-pkg
+[1.633s] running install
+[1.640s] running install_lib
+[1.666s] creating /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py-pkg/lib/python3.12/site-packages/my_py-pkg
+[1.666s] copying /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py-pkg/build/lib/my_py-pkg/__init__.py -> /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py-pkg/lib/python3.12/site-packages/my_py-pkg
+[1.667s] byte-compiling /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py-pkg/lib/python3.12/site-packages/my_py-pkg/__init__.py to __init__.cpython-312.pyc
+[1.667s] running install_data
+[1.667s] creating /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py-pkg/share/ament_index
+[1.667s] creating /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py-pkg/share/ament_index/resource_index
+[1.668s] creating /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py-pkg/share/ament_index/resource_index/packages
+[1.668s] copying resource/my_py-pkg -> /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py-pkg/share/ament_index/resource_index/packages
+[1.668s] copying package.xml -> /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py-pkg/share/my_py-pkg
+[1.668s] running install_egg_info
+[1.695s] Copying ../../build/my_py-pkg/my_py_pkg.egg-info to /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py-pkg/lib/python3.12/site-packages/my_py_pkg-0.0.0-py3.12.egg-info
+[1.696s] running install_scripts
+[1.866s] writing list of installed files to '/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py-pkg/install.log'
+[1.894s] Invoked command in '/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/src/my_py-pkg' returned '0': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py-pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py-pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_py-pkg build --build-base /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py-pkg/build install --record /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py-pkg/install.log --single-version-externally-managed install_data

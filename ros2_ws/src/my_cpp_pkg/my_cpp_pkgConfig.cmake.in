@@ -1,0 +1,14 @@
+# - Config file for the my_cpp_pkg package
+# It defines the following variables
+#  my_cpp_pkg_INCLUDE_DIRS - include directories for FooBar
+#  my_cpp_pkg_LIBRARIES    - libraries to link against
+#  my_cpp_pkg_EXECUTABLE   - the bar executable
+
+set(my_cpp_pkg_INCLUDE_DIRS "@CONF_INCLUDE_DIRS@")
+
+# Our library dependencies (contains definitions for IMPORTED targets)
+include("${my_cpp_pkg_DIR}/export_my_cpp_pkg.cmake")
+
+# These are IMPORTED targets created by my_cpp_pkgTargets.cmake
+
+
