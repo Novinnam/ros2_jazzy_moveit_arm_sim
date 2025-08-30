@@ -1,0 +1,5 @@
+/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_cpp_pkg/CMakeFiles/uninstall.dir
+/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_cpp_pkg/CMakeFiles/my_cpp_pkg_uninstall.dir
+/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_cpp_pkg/CMakeFiles/test.dir
+/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_cpp_pkg/CMakeFiles/edit_cache.dir
+/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_cpp_pkg/CMakeFiles/rebuild_cache.dir
