@@ -22,8 +22,9 @@ class CounterNumberNode(Node):
             "number_count",
             10
         )
+        self.timer_ = self.create_timer(0.5, self.publish_number_count)
         self.get_logger().info("Number Counter Node has been started")
-
+        
     def listener_callback(self, msg):
         self.counter_ += msg.data
         self.get_logger().info(f"Received: {msg.data}, Total Count: {self.counter_}")
