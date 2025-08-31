@@ -8,15 +8,15 @@ from example_interfaces.msg import Int64
 class NumberPublisherNode(Node):
     def __init__(self):
         super().__init__("number_publisher")
-        
-        self.number = 1
-        self.publisher_ = self.create_publisher(Int64, "number_topic", 10)
-        self.timer_ = self.create_timer(0.5, self.timer_callback)
+
+        self.number_ = 2
+        self.publisher_ = self.create_publisher(Int64, "number", 10)
+        self.timer_ = self.create_timer(0.5, self.publish_number)
         self.get_logger().info("Number Publisher Node has been started")
         
-    def timer_callback(self):
+    def publish_number(self):
         msg = Int64()
-        msg.data = self.number
+        msg.data = self.number_
         self.publisher_.publish(msg)
         
 

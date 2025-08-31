@@ -9,6 +9,7 @@ class CounterNumberNode(Node):
     def __init__(self):
         super().__init__("number_counter")
 
+        self.count = 38
         self.subscriber_ = self.create_subscription(
             Int64,
             "number_topic",
@@ -17,8 +18,8 @@ class CounterNumberNode(Node):
         )
     
     def listener_callback(self, msg):
-        self.get_logger().info(f"Received number: {msg.data}")
-        
+        self.get_logger().info(f"Received number: {self.count}")
+        self.count += msg.data
 
 def main(args=None):
     rclpy.init(args=args)
