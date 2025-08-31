@@ -1,1 +1,0 @@
-/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/src/my_py_pkg/setup.py
