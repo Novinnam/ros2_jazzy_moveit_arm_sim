@@ -1,0 +1,26 @@
+[0.983s] Invoking command in '/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py_pkg': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py_pkg/build --no-deps symlink_data --force
+[1.382s] running develop
+[1.644s] running egg_info
+[1.670s] writing my_py_pkg.egg-info/PKG-INFO
+[1.670s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[1.670s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[1.671s] writing requirements to my_py_pkg.egg-info/requires.txt
+[1.671s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[1.723s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.723s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.750s] running build_ext
+[1.750s] Creating /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my-py-pkg.egg-link (link to .)
+[1.751s] Installing add_two_ints_client script to /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.751s] Installing add_two_ints_client_no_oop script to /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.752s] Installing add_two_ints_server script to /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.752s] Installing number_counter script to /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.752s] Installing number_publisher script to /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.752s] Installing py_node script to /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.752s] Installing robot_news_station script to /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.752s] Installing smartphone script to /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.752s] 
+[1.753s] Installed /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py_pkg
+[1.753s] running symlink_data
+[1.753s] symbolically linking /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py_pkg/resource/my_py_pkg -> /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[1.753s] symbolically linking /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py_pkg/package.xml -> /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py_pkg/share/my_py_pkg
+[1.786s] Invoked command in '/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py_pkg' returned '0': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/novinnam/Desktop/ros2_jazzy_moveit_arm_sim/ros2_ws/build/my_py_pkg/build --no-deps symlink_data --force
